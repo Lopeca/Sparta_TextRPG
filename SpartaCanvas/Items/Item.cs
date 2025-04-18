@@ -22,6 +22,8 @@
         public void ShowInfo()
         {
             string equippedMark = isEquiped ? "[E]": "";
+
+            // 정렬 시도. 근데 이래도 들쑥날쑥합니다 
             string info = string.Format("{0, -18} | {1, -12} | {2}",
                                         equippedMark + name,
                                         StatToString(),

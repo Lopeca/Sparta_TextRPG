@@ -48,7 +48,7 @@ namespace SpartaCanvas
                 Console.Write($" - {index} {shopItem.item.CostToString()} ");
                 shopItem.item.ShowInfo();
 
-                menus.Add(new ItemBuyMenu(shopItem));
+                menus.Add(new BuySingleItemMenu(shopItem));
             }
             
 

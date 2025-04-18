@@ -26,3 +26,4 @@ D:\study\SpartaCoding\Sparta_TextRPG\SpartaCanvas\obj\Debug\net8.0\refint\Sparta
 D:\study\SpartaCoding\Sparta_TextRPG\SpartaCanvas\obj\Debug\net8.0\SpartaCanvas.pdb
 D:\study\SpartaCoding\Sparta_TextRPG\SpartaCanvas\obj\Debug\net8.0\SpartaCanvas.genruntimeconfig.cache
 D:\study\SpartaCoding\Sparta_TextRPG\SpartaCanvas\obj\Debug\net8.0\ref\SpartaCanvas.dll
+D:\study\SpartaCoding\Sparta_TextRPG\SpartaCanvas\obj\Debug\net8.0\SpartaCanvas.sourcelink.json

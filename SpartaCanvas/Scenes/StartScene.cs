@@ -7,12 +7,13 @@ namespace SpartaCanvas
 
         public StartScene()
         {
-            menus.Add(new StatusSceneMenu());
-            menus.Add(new InventorySceneMenu());
-            menus.Add(new ShopSceneMenu());
-            menus.Add(new DungeonSceneMenu());
-            menus.Add(new RestSceneMenu());
+            menus.Add(new EnterStatusSceneMenu());
+            menus.Add(new EnterInventorySceneMenu());
+            menus.Add(new EnterShopSceneMenu());
+            menus.Add(new EnterDungeonSceneMenu());
+            menus.Add(new EnterRestSceneMenu());
             menus.Add(new SaveDataMenu());
+            menus.Add(new ResetDataMenu());
         }
         public override void Init()
         {           

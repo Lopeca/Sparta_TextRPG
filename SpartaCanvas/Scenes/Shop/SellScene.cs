@@ -46,7 +46,7 @@
                 Console.Write($" - {index} {shopItem.item.CostToString()} ");
                 shopItem.item.ShowInfo();
 
-                menus.Add(new ItemSellMenu(shopItem));
+                menus.Add(new SellSingleItemMenu(shopItem));
             }
 
 

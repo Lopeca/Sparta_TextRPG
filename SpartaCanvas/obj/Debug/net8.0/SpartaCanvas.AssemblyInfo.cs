@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SpartaCanvas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fe1dc4f70f7a91fb8285cf42b033f08cde49fb19")]
 [assembly: System.Reflection.AssemblyProductAttribute("SpartaCanvas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SpartaCanvas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

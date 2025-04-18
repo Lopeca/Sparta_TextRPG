@@ -1,11 +1,11 @@
 ﻿namespace SpartaCanvas
 {
-    internal class ItemBuyMenu : Menu
+    internal class BuySingleItemMenu : Menu
     {
         public override string Name => "";
         private ShopItem shopItem;
 
-        public ItemBuyMenu(ShopItem shopItem)
+        public BuySingleItemMenu(ShopItem shopItem)
         {
             this.shopItem = shopItem;
         }

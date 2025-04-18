@@ -3,6 +3,50 @@
   "WorkspaceRootPath": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|d:\\study\\spartacoding\\sparta_textrpg\\spartacanvas\\scenes\\startscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|solutionrelative:spartacanvas\\scenes\\startscene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|d:\\study\\spartacoding\\sparta_textrpg\\spartacanvas\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|solutionrelative:spartacanvas\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|d:\\study\\spartacoding\\sparta_textrpg\\spartacanvas\\menus\\startscenemenus\\resetdatamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|solutionrelative:spartacanvas\\menus\\startscenemenus\\resetdatamenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|d:\\study\\spartacoding\\sparta_textrpg\\spartacanvas\\menus\\startscenemenus\\enterstatusscenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|solutionrelative:spartacanvas\\menus\\startscenemenus\\enterstatusscenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|d:\\study\\spartacoding\\sparta_textrpg\\spartacanvas\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|solutionrelative:spartacanvas\\items\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|d:\\study\\spartacoding\\sparta_textrpg\\spartacanvas\\menus\\shopmenus\\buysingleitemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|solutionrelative:spartacanvas\\menus\\shopmenus\\buysingleitemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|d:\\study\\spartacoding\\sparta_textrpg\\spartacanvas\\menus\\shopmenus\\sellsingleitemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|solutionrelative:spartacanvas\\menus\\shopmenus\\sellsingleitemmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|d:\\study\\spartacoding\\sparta_textrpg\\spartacanvas\\menus\\startscenemenus\\entershopscenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|solutionrelative:spartacanvas\\menus\\startscenemenus\\entershopscenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|d:\\study\\spartacoding\\sparta_textrpg\\spartacanvas\\menus\\startscenemenus\\enterrestscenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|solutionrelative:spartacanvas\\menus\\startscenemenus\\enterrestscenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|d:\\study\\spartacoding\\sparta_textrpg\\spartacanvas\\menus\\startscenemenus\\enterdungeonscenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|solutionrelative:spartacanvas\\menus\\startscenemenus\\enterdungeonscenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|d:\\study\\spartacoding\\sparta_textrpg\\spartacanvas\\menus\\startscenemenus\\enterinventoryscenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|solutionrelative:spartacanvas\\menus\\startscenemenus\\enterinventoryscenemenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|d:\\study\\spartacoding\\sparta_textrpg\\spartacanvas\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E936760B-2EB1-4190-8FA3-A053ECE781FC}|SpartaCanvas\\SpartaCanvas.csproj|solutionrelative:spartacanvas\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -14,17 +58,160 @@
       "DocumentGroups": [
         {
           "DockedWidth": 157,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\GameManager.cs",
+              "RelativeDocumentMoniker": "SpartaCanvas\\GameManager.cs",
+              "ToolTip": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\GameManager.cs",
+              "RelativeToolTip": "SpartaCanvas\\GameManager.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAmwC4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:14:07.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ResetDataMenu.cs",
+              "DocumentMoniker": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\StartSceneMenus\\ResetDataMenu.cs",
+              "RelativeDocumentMoniker": "SpartaCanvas\\Menus\\StartSceneMenus\\ResetDataMenu.cs",
+              "ToolTip": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\StartSceneMenus\\ResetDataMenu.cs",
+              "RelativeToolTip": "SpartaCanvas\\Menus\\StartSceneMenus\\ResetDataMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:11:11.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "StartScene.cs",
+              "DocumentMoniker": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Scenes\\StartScene.cs",
+              "RelativeDocumentMoniker": "SpartaCanvas\\Scenes\\StartScene.cs",
+              "ToolTip": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Scenes\\StartScene.cs",
+              "RelativeToolTip": "SpartaCanvas\\Scenes\\StartScene.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:10:43.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Items\\Item.cs",
+              "RelativeDocumentMoniker": "SpartaCanvas\\Items\\Item.cs",
+              "ToolTip": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Items\\Item.cs",
+              "RelativeToolTip": "SpartaCanvas\\Items\\Item.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:09:11.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SellSingleItemMenu.cs",
+              "DocumentMoniker": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\ShopMenus\\SellSingleItemMenu.cs",
+              "RelativeDocumentMoniker": "SpartaCanvas\\Menus\\ShopMenus\\SellSingleItemMenu.cs",
+              "ToolTip": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\ShopMenus\\SellSingleItemMenu.cs",
+              "RelativeToolTip": "SpartaCanvas\\Menus\\ShopMenus\\SellSingleItemMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:08:01.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BuySingleItemMenu.cs",
+              "DocumentMoniker": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\ShopMenus\\BuySingleItemMenu.cs",
+              "RelativeDocumentMoniker": "SpartaCanvas\\Menus\\ShopMenus\\BuySingleItemMenu.cs",
+              "ToolTip": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\ShopMenus\\BuySingleItemMenu.cs",
+              "RelativeToolTip": "SpartaCanvas\\Menus\\ShopMenus\\BuySingleItemMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:07:47.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnterShopSceneMenu.cs",
+              "DocumentMoniker": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\StartSceneMenus\\EnterShopSceneMenu.cs",
+              "RelativeDocumentMoniker": "SpartaCanvas\\Menus\\StartSceneMenus\\EnterShopSceneMenu.cs",
+              "ToolTip": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\StartSceneMenus\\EnterShopSceneMenu.cs",
+              "RelativeToolTip": "SpartaCanvas\\Menus\\StartSceneMenus\\EnterShopSceneMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:07:09.478Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EnterRestSceneMenu.cs",
+              "DocumentMoniker": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\StartSceneMenus\\EnterRestSceneMenu.cs",
+              "RelativeDocumentMoniker": "SpartaCanvas\\Menus\\StartSceneMenus\\EnterRestSceneMenu.cs",
+              "ToolTip": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\StartSceneMenus\\EnterRestSceneMenu.cs",
+              "RelativeToolTip": "SpartaCanvas\\Menus\\StartSceneMenus\\EnterRestSceneMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:06:51.476Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "EnterDungeonSceneMenu.cs",
+              "DocumentMoniker": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\StartSceneMenus\\EnterDungeonSceneMenu.cs",
+              "RelativeDocumentMoniker": "SpartaCanvas\\Menus\\StartSceneMenus\\EnterDungeonSceneMenu.cs",
+              "ToolTip": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\StartSceneMenus\\EnterDungeonSceneMenu.cs",
+              "RelativeToolTip": "SpartaCanvas\\Menus\\StartSceneMenus\\EnterDungeonSceneMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:04:31.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnterStatusSceneMenu.cs",
+              "DocumentMoniker": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\StartSceneMenus\\EnterStatusSceneMenu.cs",
+              "RelativeDocumentMoniker": "SpartaCanvas\\Menus\\StartSceneMenus\\EnterStatusSceneMenu.cs",
+              "ToolTip": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\StartSceneMenus\\EnterStatusSceneMenu.cs",
+              "RelativeToolTip": "SpartaCanvas\\Menus\\StartSceneMenus\\EnterStatusSceneMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:04:16.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EnterInventorySceneMenu.cs",
+              "DocumentMoniker": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\StartSceneMenus\\EnterInventorySceneMenu.cs",
+              "RelativeDocumentMoniker": "SpartaCanvas\\Menus\\StartSceneMenus\\EnterInventorySceneMenu.cs",
+              "ToolTip": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Menus\\StartSceneMenus\\EnterInventorySceneMenu.cs",
+              "RelativeToolTip": "SpartaCanvas\\Menus\\StartSceneMenus\\EnterInventorySceneMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T00:04:24.284Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Game.cs",
               "DocumentMoniker": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Game.cs",
               "RelativeDocumentMoniker": "SpartaCanvas\\Game.cs",
               "ToolTip": "D:\\study\\SpartaCoding\\Sparta_TextRPG\\SpartaCanvas\\Game.cs",
               "RelativeToolTip": "SpartaCanvas\\Game.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAwwBUAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABUAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-17T07:10:04.515Z",
               "EditorCaption": ""

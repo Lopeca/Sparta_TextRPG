@@ -41,5 +41,10 @@ namespace SpartaCanvas
                 }
             }
         }
+
+        public static void ResetData()
+        {
+            player = new Player();
+        }
     }
 }

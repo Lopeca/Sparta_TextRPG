@@ -6,13 +6,13 @@ using System.Threading.Tasks;
 
 namespace SpartaCanvas
 {
-        public class StatusSceneMenu : Menu
+        public class EnterRestSceneMenu : Menu
     {
-        public override string Name => "상태 보기";
+        public override string Name => "휴식하기";
 
         public override void Execute()
         {
-            GameManager.LoadScene(new StatusScene());
+            GameManager.LoadScene(new RestScene());
         }
     }
 }

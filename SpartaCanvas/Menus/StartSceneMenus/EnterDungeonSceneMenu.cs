@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace SpartaCanvas
 {
-        public class DungeonSceneMenu : Menu
+        public class EnterDungeonSceneMenu : Menu
     {
         public override string Name => "던전 입장";
 
